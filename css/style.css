@@ -44,3 +44,13 @@ h1{
     left: 0;
     right: 0;
 }
+
+.inform{
+    height: 50px; 
+}
+
+#winner{
+    visibility: hidden;
+}
+
+
