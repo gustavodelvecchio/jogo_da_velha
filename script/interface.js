@@ -20,7 +20,7 @@ function handleClick(event){
 
         setTimeout(() => {
             let winner = document.querySelector("#winner");
-            winner.style.display = "block";  
+            winner.style.visibility = "visible";  
 
             if (playerTime == 0){
                 winner.innerHTML = "O jogo acabou, o vencedor é 🛡️";
