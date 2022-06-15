@@ -50,7 +50,7 @@ h1{
 }
 
 #winner{
-    visibility: hidden;
+    display: none;
 }
 
 
